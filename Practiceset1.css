@@ -1,0 +1,51 @@
+*{
+    
+}
+.one {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    line-height: 20px;
+
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; 
+    background-color: red;
+    margin-right: 200px;
+    margin-left: 200px;
+    
+}
+.two{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; 
+    background-color: yellow;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.three{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; 
+    background-color: green;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+div{
+    padding: 50px;
+    margin: 40px;
+    border: 10px solid black;
+    border-radius: 30px;
+    display: block;
+
+}
